@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="18" height="18" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="b" tilewidth="32" tileheight="32">
+  <image source="celianna/b.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="c" tilewidth="32" tileheight="32">
+  <image source="celianna/c.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="449" name="celiannatilea5" tilewidth="32" tileheight="32">
+  <image source="celianna/celiannatilea5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="577" name="castle" tilewidth="32" tileheight="32">
+  <image source="exterior/castle.png" trans="ffffff" width="256" height="2234"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="18" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYBrm+DIjaXjUnFFzRs0h3pzhhAFw/nip
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="18" height="18">
+  <data encoding="base64" compression="zlib">
+   eJx7wszA8ASKSQVPkPS+QcKkAmS9d4D4CxSTCr4g6b1Dhn5sgBrm3KGSe6hlDrnxjQ7Ije9Rc4aHOVcYyTcDpBdmBqXmUKIfHQAAMVQsnA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="18" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztkzsOwkAMRB3txQgddNBBFejgFOkpUwUaaij4FfwKQpD4XoKjMA62WAUJLVDCSE+2bM9om/UNURGw9qgHcAQTMAWzXG/fsHzxl0BZZlvUFOzAEqzAOtfbNyz1V0BVZifUM7gYt56l/hqoy2zoUTDwKHQBt5nU3zEUNiUH+4Achdsr18Y9I8tpf5HTkpwIOdbu7RxW9M/52ZwRGD/+RYJ9wQXc9tmj/jlYGNdXPEv9G5CAWOiCnhC/QO/Ur/81/RD13wCknoOT
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="18" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztzDkKgEAMQNEgcUHcEDc8mqUXs5xr+gerCQOCnTAfXpOQiDxdmUitIUWOAiUqs/c3Nsds1FCDFh16DGbvIn8O5rsxYcaCFZvZ+xvbGZm99eUmlUr9vxvn+Qb5
+  </data>
+ </layer>
+ <layer name="Tile Layer 5" width="18" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFLiwMDPOZIDQ2QEgeBnyA8suZIDQ58qNgFIyCUUBvAACuIQT1
+  </data>
+ </layer>
+</map>
